@@ -15,4 +15,20 @@ drone_CSV_Extract -> Uses Read_CSV_for_Values and actually loads the images into
 Drone_Lenet_Move -> Meant for moving the drone, can control automatically if a shutdown is needed
 
 
+Dependencies:
+
+Python2.7 for libardrone
+
+libardrone: https://github.com/venthur/python-ardrone
+
+cv2: pip install cv2
+
+Python3:
+Keras: pip install keras
+
+
+
+
+
+
 

@@ -12,7 +12,9 @@ Read CSV for Values: Allows you to extract all the learning to fly by crashing d
 
 drone_CSV_Extract -> Uses Read_CSV_for_Values and actually loads the images into positive and negative samples
 
-Drone_Lenet_Move -> Meant for moving the drone, can control manually if a shutdown is needed
+Drone_Lenet_Move -> Meant for moving the drone, can control manually if a shutdown is needed* 
+
+*Note: Still working on getting the Move movement part working with Lenet so consider this file unfinished 
 
 
 **Dependencies:**
